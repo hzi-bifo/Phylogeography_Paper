@@ -1,0 +1,63 @@
+<simulation xmlns="http://www.gleamviz.org/xmlns/gleamviz_v4_0">
+  <definition id="1473064080428.A68" type="single-run" name="H1N1 Pan with 3 infected as seed single run">
+    <compartmentalModel>
+      <compartments>
+        <compartment y="5" id="Susceptible" isSecondary="false" color="#51b2b7" isCarrier="false" isCommuter="true" isTraveller="true" x="236"/>
+        <compartment y="212" id="Latent" isSecondary="false" color="#00c18d" isCarrier="true" isCommuter="true" isTraveller="true" x="236"/>
+        <compartment y="381" id="Infectious_SympT" isSecondary="true" color="#ff5127" isCarrier="true" isCommuter="true" isTraveller="true" x="236"/>
+        <compartment y="532" id="Recovered" isSecondary="false" color="#89c443" isCarrier="false" isCommuter="true" isTraveller="true" x="236"/>
+        <compartment y="359" id="Infectious_Asymp" isSecondary="false" color="#f4ce17" isCarrier="true" isCommuter="true" isTraveller="true" x="-29"/>
+        <compartment y="351" id="Infectious_SympNT" isSecondary="true" color="#f59123" isCarrier="true" isCommuter="false" isTraveller="false" x="497"/>
+      </compartments>
+      <ratioTransitions>
+        <ratioTransition labelPosition="0.3" target="Infectious_SympT" ratio="epsilon*pt*upa" source="Latent"/>
+        <ratioTransition labelPosition="0.5" target="Recovered" ratio="mu" source="Infectious_SympT"/>
+        <ratioTransition labelPosition="0.5" target="Infectious_Asymp" ratio="epsilon*pa" source="Latent"/>
+        <ratioTransition labelPosition="0.6" target="Infectious_SympNT" ratio="epsilon*upt*upa" source="Latent"/>
+        <ratioTransition labelPosition="0.5" target="Recovered" ratio="mu" source="Infectious_Asymp"/>
+        <ratioTransition labelPosition="0.5" target="Recovered" ratio="mu" source="Infectious_SympNT"/>
+      </ratioTransitions>
+      <infections>
+        <infection target="Latent" source="Susceptible">
+          <infector y="-27" ratio="beta" source="Infectious_SympT" x="147"/>
+          <infector y="-27" ratio="rbeta*beta" source="Infectious_Asymp" x="-272"/>
+          <infector y="-29" ratio="beta" source="Infectious_SympNT" x="146"/>
+        </infection>
+      </infections>
+      <variables>
+        <variable value="0.8383" name="beta"/>
+        <variable value="1/1.1" name="epsilon"/>
+        <variable value="1/2.5" name="mu"/>
+        <variable value="0.33" name="pa"/>
+        <variable value="0.5" name="pt"/>
+        <variable value="0.5" name="rbeta"/>
+        <variable value="1-pa" name="upa"/>
+        <variable value="1-pt" name="upt"/>
+      </variables>
+    </compartmentalModel>
+    <parameters duration="365" occupancyRate="100" commutingModel="gravity" startDate="2009-02-18" commutingRate="8" outbreakSize="2" secondaryEvents="1" flightsTimeAggregation="month" seasonalityAlphaMin="0.50" runCount="20" seasonalityEnabled="true"/>
+    <notes/>
+    <initialCompartments>
+      <initialCompartment compartment="Susceptible" fraction="100"/>
+    </initialCompartments>
+    <seeds>
+      <seed city="1013" number="3" compartment="Infectious_SympT"/>
+    </seeds>
+    <resultCompartments>
+      <id>Infectious_SympNT</id>
+      <id>Infectious_Asymp</id>
+      <id>Recovered</id>
+      <id>Infectious_SympT</id>
+      <id>Latent</id>
+    </resultCompartments>
+    <exceptions/>
+  </definition>
+  <metadata>
+    <creationDate>2016-08-22T15:53:32</creationDate>
+    <clientVersion>6.6</clientVersion>
+  </metadata>
+  <extradata>
+    <userVariableOrder></userVariableOrder>
+  </extradata>
+</simulation>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
