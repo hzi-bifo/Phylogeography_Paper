@@ -21,6 +21,7 @@ For each simulation:
 * outgroup.fa: the (random) ancestral sequence used to simulate the sequences.
 * simulated_seq_cds.labeled.phy: the phylogenetic tree inferred on the simulated sequences in simulated_seq_cds.fa and rooted using the outgroup.
 * Reconstruction: subfolder containing all reconstructed phylogeographies using geographical and effective distances, airport and country resolutions, and either the inferred tree topology (simulated_seq_cds.labeled.phy) or the simulated tree topology (new_tree.labeled.phy, results denoted realtree).
+* BEAST: subfolder containing the xml file used to start the analysis, the maximum clade credibility trees (output.tree and putput_asymmetric.tree), and the trees in Newick format with an annotation file stating the locations with the highest posterior probabilities.
 
 ## pH1N1
 * pH1N1_until_20093004_cds.fa: HA sequences downloaded from Gisaid.
