@@ -21,7 +21,7 @@ To test the software on the artificial, minimal example shown in Figure 1 of the
 Otherwise, to perform the reconstruction for the first simulation in the study using effective distances and airports as possible locations:
 > Rscript phylogeo_sankoff.R ../../Data/Simulations/Sim_1/simulated_seq_cds.labeled.phy ../../Data/Simulations/Sim_1/tipdata.txt /path/to/effective.distance.matrix.csv reconstruction_effective
 
-Distance matrices can be downloaded from TODO: ADD ZENODO LINK WHEN ONLINE
+Distance matrices can be downloaded from [this data repository](https://zenodo.org/record/2643163#.XMqf4kNS-EI).
 
 The output files created by the reconstruction are:
 * \[output\].phy: the phylogenetic tree with added (or overwritten if previously available) node labels
