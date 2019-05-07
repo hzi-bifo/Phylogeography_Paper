@@ -22,6 +22,6 @@ This folder contains all codes for:
 
 For details stating dependencies, necessary input files as well as instructions how to run the software, please see the [readme for the simulation](https://github.com/hzi-bifo/Phylogeography_Paper/blob/master/Software/Simulation/README.md) as well as the [readme for the reconstruction](https://github.com/hzi-bifo/Phylogeography_Paper/blob/master/Software/Reconstruction/README.md).
 
-The distance matrices used for the parsimonious reconstruction can be found at TODO: ADD ZENODO LINK WHEN ONLINE
+The distance matrices used for the parsimonious reconstruction can be found [in this data repository](https://zenodo.org/record/2643163#.XMqf4kNS-EI).
 
 Software for the comparison of the reconstructed spread to the simulated one can be found in the [FrechetTreeDistance repository](https://github.com/hzi-bifo/FrechetTreeDistance).
