@@ -1,0 +1,1304 @@
+<?xml version="1.0" standalone="yes"?>
+<beast version="1.10.4">
+
+    <taxa id="taxa">
+        <taxon id="N398|2204|80.82094">
+            <date value="80.82094" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N399|1025|70.953799">
+            <date value="70.953799" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N402|1006|82.223214">
+            <date value="82.223214" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N405|244|75.8153">
+            <date value="75.8153" direction="forwards" units="days"/>
+            <attr name="location">
+             PY
+            </attr>
+        </taxon>
+        <taxon id="N406|2642|76.30627">
+            <date value="76.30627" direction="forwards" units="days"/>
+            <attr name="location">
+             CA
+            </attr>
+        </taxon>
+        <taxon id="N407|2642|68.224917">
+            <date value="68.224917" direction="forwards" units="days"/>
+            <attr name="location">
+             CA
+            </attr>
+        </taxon>
+        <taxon id="N404|2190|82.090787">
+            <date value="82.090787" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N403|2501|72.092986">
+            <date value="72.092986" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N408|3192|83.390166">
+            <date value="83.390166" direction="forwards" units="days"/>
+            <attr name="location">
+             AR
+            </attr>
+        </taxon>
+        <taxon id="N409|2194|82.499501">
+            <date value="82.499501" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N410|2465|83.524989">
+            <date value="83.524989" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N411|2701|79.332562">
+            <date value="79.332562" direction="forwards" units="days"/>
+            <attr name="location">
+             CA
+            </attr>
+        </taxon>
+        <taxon id="N412|3224|82.004118">
+            <date value="82.004118" direction="forwards" units="days"/>
+            <attr name="location">
+             BS
+            </attr>
+        </taxon>
+        <taxon id="N413|2517|78.257926">
+            <date value="78.257926" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N414|1396|81.632775">
+            <date value="81.632775" direction="forwards" units="days"/>
+            <attr name="location">
+             CO
+            </attr>
+        </taxon>
+        <taxon id="N415|720|83.078437">
+            <date value="83.078437" direction="forwards" units="days"/>
+            <attr name="location">
+             BE
+            </attr>
+        </taxon>
+        <taxon id="N416|2432|80.148158">
+            <date value="80.148158" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N417|2432|80.751958">
+            <date value="80.751958" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N419|2034|66.546604">
+            <date value="66.546604" direction="forwards" units="days"/>
+            <attr name="location">
+             BR
+            </attr>
+        </taxon>
+        <taxon id="N420|2034|74.508334">
+            <date value="74.508334" direction="forwards" units="days"/>
+            <attr name="location">
+             BR
+            </attr>
+        </taxon>
+        <taxon id="N421|2387|83.936578">
+            <date value="83.936578" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N418|2206|80.226133">
+            <date value="80.226133" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N422|2303|78.804884">
+            <date value="78.804884" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N423|2441|73.264007">
+            <date value="73.264007" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N424|2441|77.959324">
+            <date value="77.959324" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N425|2733|77.506721">
+            <date value="77.506721" direction="forwards" units="days"/>
+            <attr name="location">
+             CA
+            </attr>
+        </taxon>
+        <taxon id="N426|2610|77.620931">
+            <date value="77.620931" direction="forwards" units="days"/>
+            <attr name="location">
+             CA
+            </attr>
+        </taxon>
+        <taxon id="N428|2925|83.754228">
+            <date value="83.754228" direction="forwards" units="days"/>
+            <attr name="location">
+             IE
+            </attr>
+        </taxon>
+        <taxon id="N429|791|80.858237">
+            <date value="80.858237" direction="forwards" units="days"/>
+            <attr name="location">
+             GB
+            </attr>
+        </taxon>
+        <taxon id="N430|2458|82.386943">
+            <date value="82.386943" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N431|2528|61.026043">
+            <date value="61.026043" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N427|2333|82.362446">
+            <date value="82.362446" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N432|2506|83.684475">
+            <date value="83.684475" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N433|2417|75.283375">
+            <date value="75.283375" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N434|2212|68.753535">
+            <date value="68.753535" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N401|1003|76.649265">
+            <date value="76.649265" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N435|1377|83.033845">
+            <date value="83.033845" direction="forwards" units="days"/>
+            <attr name="location">
+             CO
+            </attr>
+        </taxon>
+        <taxon id="N436|1024|47.089303">
+            <date value="47.089303" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N437|1028|83.563958">
+            <date value="83.563958" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N438|984|83.015494">
+            <date value="83.015494" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N439|735|83.409104">
+            <date value="83.409104" direction="forwards" units="days"/>
+            <attr name="location">
+             DE
+            </attr>
+        </taxon>
+        <taxon id="N440|2181|73.101222">
+            <date value="73.101222" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N441|3093|81.730494">
+            <date value="81.730494" direction="forwards" units="days"/>
+            <attr name="location">
+             IT
+            </attr>
+        </taxon>
+        <taxon id="N400|802|79.206326">
+            <date value="79.206326" direction="forwards" units="days"/>
+            <attr name="location">
+             CR
+            </attr>
+        </taxon>
+        <taxon id="N442|1026|75.225758">
+            <date value="75.225758" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N443|732|69.935701">
+            <date value="69.935701" direction="forwards" units="days"/>
+            <attr name="location">
+             DE
+            </attr>
+        </taxon>
+        <taxon id="N446|2334|56.668579">
+            <date value="56.668579" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N447|2479|67.95591">
+            <date value="67.95591" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N444|915|83.682648">
+            <date value="83.682648" direction="forwards" units="days"/>
+            <attr name="location">
+             GR
+            </attr>
+        </taxon>
+        <taxon id="N445|915|82.76209">
+            <date value="82.76209" direction="forwards" units="days"/>
+            <attr name="location">
+             GR
+            </attr>
+        </taxon>
+        <taxon id="N448|1017|75.518994">
+            <date value="75.518994" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N449|1017|73.558245">
+            <date value="73.558245" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N450|1017|72.569808">
+            <date value="72.569808" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N451|2375|74.710446">
+            <date value="74.710446" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N452|803|83.231547">
+            <date value="83.231547" direction="forwards" units="days"/>
+            <attr name="location">
+             CR
+            </attr>
+        </taxon>
+        <taxon id="N453|803|83.472209">
+            <date value="83.472209" direction="forwards" units="days"/>
+            <attr name="location">
+             CR
+            </attr>
+        </taxon>
+        <taxon id="N454|2343|82.26797">
+            <date value="82.26797" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N455|991|78.343396">
+            <date value="78.343396" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N456|991|77.477836">
+            <date value="77.477836" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N457|991|76.244125">
+            <date value="76.244125" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N458|991|73.738813">
+            <date value="73.738813" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N459|2532|53.635962">
+            <date value="53.635962" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N460|2341|80.091537">
+            <date value="80.091537" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N461|2682|65.742593">
+            <date value="65.742593" direction="forwards" units="days"/>
+            <attr name="location">
+             CA
+            </attr>
+        </taxon>
+        <taxon id="N462|992|61.475679">
+            <date value="61.475679" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N463|3141|83.65506">
+            <date value="83.65506" direction="forwards" units="days"/>
+            <attr name="location">
+             JP
+            </attr>
+        </taxon>
+        <taxon id="N464|2042|79.310737">
+            <date value="79.310737" direction="forwards" units="days"/>
+            <attr name="location">
+             BR
+            </attr>
+        </taxon>
+        <taxon id="N465|2720|79.693282">
+            <date value="79.693282" direction="forwards" units="days"/>
+            <attr name="location">
+             CA
+            </attr>
+        </taxon>
+        <taxon id="N466|1758|81.232619">
+            <date value="81.232619" direction="forwards" units="days"/>
+            <attr name="location">
+             TR
+            </attr>
+        </taxon>
+        <taxon id="N467|2274|83.122109">
+            <date value="83.122109" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N468|1000|83.932758">
+            <date value="83.932758" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N470|1015|58.34302">
+            <date value="58.34302" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N471|1015|56.092264">
+            <date value="56.092264" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N472|837|71.619228">
+            <date value="71.619228" direction="forwards" units="days"/>
+            <attr name="location">
+             NL
+            </attr>
+        </taxon>
+        <taxon id="N473|999|56.376285">
+            <date value="56.376285" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N474|999|66.82405">
+            <date value="66.82405" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N475|999|69.813414">
+            <date value="69.813414" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N469|2777|59.029846">
+            <date value="59.029846" direction="forwards" units="days"/>
+            <attr name="location">
+             CA
+            </attr>
+        </taxon>
+        <taxon id="N476|1031|67.448336">
+            <date value="67.448336" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N477|2614|83.493019">
+            <date value="83.493019" direction="forwards" units="days"/>
+            <attr name="location">
+             CA
+            </attr>
+        </taxon>
+        <taxon id="N478|2229|62.578291">
+            <date value="62.578291" direction="forwards" units="days"/>
+            <attr name="location">
+             US
+            </attr>
+        </taxon>
+        <taxon id="N479|990|80.685395">
+            <date value="80.685395" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N480|1013|62.784282">
+            <date value="62.784282" direction="forwards" units="days"/>
+            <attr name="location">
+             MX
+            </attr>
+        </taxon>
+        <taxon id="N481|1714|57.151383">
+            <date value="57.151383" direction="forwards" units="days"/>
+            <attr name="location">
+             VE
+            </attr>
+        </taxon>
+    </taxa>
+
+    <alignment id="alignment" dataType="nucleotide">
+        <sequence>
+            <taxon idref="N398|2204|80.82094"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtaccacctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcgtaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N399|1025|70.953799"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtgtctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttgactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N402|1006|82.223214"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaactgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N405|244|75.8153"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttcacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N406|2642|76.30627"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgaggcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgtaaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N407|2642|68.224917"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N404|2190|82.090787"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgtagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccggtttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N403|2501|72.092986"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N408|3192|83.390166"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N409|2194|82.499501"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgggctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N410|2465|83.524989"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N411|2701|79.332562"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N412|3224|82.004118"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgttcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N413|2517|78.257926"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttacggaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgggggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N414|1396|81.632775"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggatgaggggctcgtgaatcctaccttgagtcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtacacattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttacattcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N415|720|83.078437"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N416|2432|80.148158"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgacatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N417|2432|80.751958"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgacatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N419|2034|66.546604"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattggtctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N420|2034|74.508334"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N421|2387|83.936578"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N418|2206|80.226133"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N422|2303|78.804884"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtaacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N423|2441|73.264007"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N424|2441|77.959324"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N425|2733|77.506721"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N426|2610|77.620931"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatctaaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctccggtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N428|2925|83.754228"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcaccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N429|791|80.858237"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacagtgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcaccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N430|2458|82.386943"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcaccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgatattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcatactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N431|2528|61.026043"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcaccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N427|2333|82.362446"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccacttctcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtgtacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N432|2506|83.684475"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaatcagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N433|2417|75.283375"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N434|2212|68.753535"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcatcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N401|1003|76.649265"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatcgcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N435|1377|83.033845"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N436|1024|47.089303"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccacacttccgcagctcgtcaggtgcagcgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttcaaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtaataaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N437|1028|83.563958"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccacacttccgcagctcgtcaggtgcagcgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N438|984|83.015494"/>
+taacgaccccgtggcgaagaggcctaaggaatgcccacacttccgcagctcgtcaggtgcagcgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctgtcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagacacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N439|735|83.409104"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccacacttccgcagctcgtcaggtgcagcgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcgcagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatcaaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcatggttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N440|2181|73.101222"/>
+tgacgcccccgtggcgaagaggcctaaggaatgcccaaaattccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N441|3093|81.730494"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagttacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggttatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctacccccggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N400|802|79.206326"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactggaaccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N442|1026|75.225758"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgctcctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttcggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N443|732|69.935701"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcataaaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N446|2334|56.668579"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttaacgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N447|2479|67.95591"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcttaggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N444|915|83.682648"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N445|915|82.76209"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N448|1017|75.518994"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgacactcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggccacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N449|1017|73.558245"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgacactcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggccacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N450|1017|72.569808"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgacactcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggccacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N451|2375|74.710446"/>
+taacgcccccgtggcgaagaggcctaaggaaggcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtctgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N452|803|83.231547"/>
+taacgcccccgtggcgaagaggcctaaggaaggcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N453|803|83.472209"/>
+taacgcccccgtggcgaagaggcctaaggaaggcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N454|2343|82.26797"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggcaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcatatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatttttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtttataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N455|991|78.343396"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N456|991|77.477836"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N457|991|76.244125"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N458|991|73.738813"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N459|2532|53.635962"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgaattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagacgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcacgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N460|2341|80.091537"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcgtcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttctacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaagacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N461|2682|65.742593"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N462|992|61.475679"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcaccaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatccgctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N463|3141|83.65506"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagtaagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaagaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgttgaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N464|2042|79.310737"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcagatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtcgctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagttcaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagagtattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N465|2720|79.693282"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatcgaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcattggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N466|1758|81.232619"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatcgaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcattggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N467|2274|83.122109"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaacacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcctcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N468|1000|83.932758"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtgggccctagtacctcctaaggaaccaaaacatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagagcgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcaatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcactgcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagttttcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatccttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N470|1015|58.34302"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N471|1015|56.092264"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctaatacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N472|837|71.619228"/>
+taacgcccccgtgtcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatatagttcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N473|999|56.376285"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N474|999|66.82405"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcattagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N475|999|69.813414"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N469|2777|59.029846"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggcactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N476|1031|67.448336"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N477|2614|83.493019"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcacatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtatccacggaccacagcgcttctcacagggcggcacctccctgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactggggccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N478|2229|62.578291"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagcatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtataacaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaaagatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaagtcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N479|990|80.685395"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcaagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N480|1013|62.784282"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagtgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+        <sequence>
+            <taxon idref="N481|1714|57.151383"/>
+taacgcccccgtggcgaagaggcctaaggaatgcccaaacttccgcagctcgtcaggtgcagcgatcgagcagaccaagcaacttcgaacataaaactcatactgttgttagtgccgcatgcattaaaatccagtttcactctccgtggggcctagtacctcctaaggaaccaaagcatgttcagccgacaaccgaaaaccttcgcatatgtctcaagatgctcagcagggtaccgatggaagcatggaacaatgtacagaccgagaaccagacggactcgtgaggaaatccgagtgacaggagtccctatccgtgaagcggcgccgttatgcctatataggtcagcagtatcctcgcgttccaaacattcccgatatcgtcggaccgacgcaccaaacacgcacgaagttgcggattacgctggcgagcaagtggcgtttccacggaccacagcgcttctcacagggcggcacctccccgttaacgggtgatgggccatggcatcatgtaccgagccgaagatatctaaaccggctatccctggcgtggagctcctgtatagcaggtcatgctctttcgagtcagtacaaaatttcttctttttggcctccccttggcgactcaacttactgctgcctacataggtgagttaaattcaccgctgattaagagggtttttcgtttccagagttagtcgcagcgaggttattcataggaaccgcgtgctcgagatagcaatcttaataggtgccaccatggccactactcgcgagagtttttcaagaaacaagcaagcaaaggcggaagaggggctcgtgaatcctaccttgattcggtttgctgagacctcaggtccgcaccagggcccgagtgacattggcagtagcatgtatacactaactccaactaccgccgactctcaggcatccgcctatctggcattggacttgtgtttgtggtttctttatcggacagcggcgttctcagctgcgagttactgaccatcttgtctccgtacgcgccgatcccgaccgcatagaagtggacaagatcttttggtggttagtgacaggacctaaccgaagatcacttccgtcgtaagtccaatatttaagggtggcgtactaaaactaattgcgttgatcgaccatgaattctacaattccacaggacgtcagcaagaaccattactaaataactgatgctcccaaatggaggaactttatcgatctaaacattttgcactcaccatgttaactattgtcataggaacgatatgatcgtgtactcattgttgcacggccacgtcacagcaatgtgttcgttttgtacgtttaccttcttcagggcggatccgctttgagagatcatcttaaaagggtcgcgccaatgaaaatgacatgatctcctggcggtgctcccaaccgaggaaaagataaaactcgaactgggtccagttttaggtaatttaacacataccagtccccgtggcgacctgaatcggctctggtaagggagactattgatctcgtattaaccacgttcggaggcgtgggttagcgggtatataacaggacaggttacgctcccgtacgaacaacgggtgcagaaacacggatatagtattcgtactgtgcacagctcttaggtttacaagaacccctaccccaggcgacatctttattcgagtgtcgtcccg
+        </sequence>
+    </alignment>
+
+    <patterns id="patterns" from="1" strip="false">
+        <alignment idref="alignment"/>
+    </patterns>
+
+    <generalDataType id="location.dataType">
+        <state code="AR"/>
+        <state code="BE"/>
+        <state code="BR"/>
+        <state code="BS"/>
+        <state code="CA"/>
+        <state code="CO"/>
+        <state code="CR"/>
+        <state code="DE"/>
+        <state code="GB"/>
+        <state code="GR"/>
+        <state code="IE"/>
+        <state code="IT"/>
+        <state code="JP"/>
+        <state code="MX"/>
+        <state code="NL"/>
+        <state code="PY"/>
+        <state code="TR"/>
+        <state code="US"/>
+        <state code="VE"/>
+    </generalDataType>
+
+	<!-- Data pattern for discrete trait, 'location'                             -->
+	<attributePatterns id="location.pattern" attribute="location">
+		<taxa idref="taxa"/>
+		<generalDataType idref="location.dataType"/>
+	</attributePatterns>
+
+	<!-- END Discrete Traits Model                                               -->
+
+
+	<!-- A prior assumption that the population size has grown exponentially     -->
+	<!-- throughout the time spanned by the genealogy.                           -->
+	<exponentialGrowth id="exponential" units="days">
+		<populationSize>
+			<parameter id="exponential.popSize" value="1.0" lower="0.0"/>
+		</populationSize>
+		<growthRate>
+			<parameter id="exponential.growthRate" value="0.0"/>
+		</growthRate>
+	</exponentialGrowth>
+	
+
+	<!-- Generate a random starting tree under the coalescent process            -->
+	<coalescentSimulator id="startingTree">
+		<taxa idref="taxa"/>
+		<exponentialGrowth idref="exponential"/>
+	</coalescentSimulator>
+	
+
+	<!-- Generate a tree model                                                   -->
+	<treeModel id="treeModel">
+		<coalescentTree idref="startingTree"/>
+		<rootHeight>
+			<parameter id="treeModel.rootHeight"/>
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="treeModel.internalNodeHeights"/>
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="treeModel.allInternalNodeHeights"/>
+		</nodeHeights>
+	</treeModel>
+
+	<!-- Statistic for sum of the branch lengths of the tree (tree length)       -->
+	<treeLengthStatistic id="treeLength">
+		<treeModel idref="treeModel"/>
+	</treeLengthStatistic>
+
+	<!-- Statistic for time of most recent common ancestor of tree               -->
+	<tmrcaStatistic id="age(root)" absolute="true">
+		<treeModel idref="treeModel"/>
+	</tmrcaStatistic>
+	
+
+	<!-- Generate a coalescent likelihood                                        -->
+	<coalescentLikelihood id="coalescent">
+		<model>
+			<exponentialGrowth idref="exponential"/>
+		</model>
+		<populationTree>
+			<treeModel idref="treeModel"/>
+		</populationTree>
+	</coalescentLikelihood>
+	
+
+	<!-- The strict clock (Uniform rates across branches)                        -->
+	<strictClockBranchRates id="default.branchRates">
+		<rate>
+			<parameter id="default.clock.rate" value="1.0" lower="0.0"/>
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="default.meanRate" name="default.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel"/>
+		<strictClockBranchRates idref="default.branchRates"/>
+	</rateStatistic>
+	
+
+	<!-- The strict clock (Uniform rates across branches)                        -->
+	<strictClockBranchRates id="location.branchRates">
+		<rate>
+			<parameter id="location.clock.rate" value="1.0" lower="0.0"/>
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="location.meanRate" name="location.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel"/>
+		<strictClockBranchRates idref="location.branchRates"/>
+	</rateStatistic>
+	
+
+	<!-- The HKY substitution model (Hasegawa, Kishino & Yano, 1985)             -->
+	<HKYModel id="hky">
+		<frequencies>
+			<frequencyModel dataType="nucleotide">
+				<frequencies>
+					<parameter id="frequencies" value="0.25 0.25 0.25 0.25"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<kappa>
+			<parameter id="kappa" value="2.0" lower="0.0"/>
+		</kappa>
+	</HKYModel>
+
+	<!-- site model                                                              -->
+	<siteModel id="siteModel">
+		<substitutionModel>
+			<HKYModel idref="hky"/>
+		</substitutionModel>
+	</siteModel>
+
+	<!--                                                                         -->
+	<statistic id="mu" name="mu">
+		<siteModel idref="siteModel"/>
+	</statistic>
+	
+	
+
+	<!-- Likelihood for tree given sequence data                                 -->
+	<treeDataLikelihood id="default.treeLikelihood" useAmbiguities="false">
+		<partition>
+			<patterns idref="patterns"/>
+			<siteModel idref="siteModel"/>
+		</partition>
+		<treeModel idref="treeModel"/>
+		<strictClockBranchRates idref="default.branchRates"/>
+	</treeDataLikelihood>
+	
+
+	<!-- START Discrete Traits Model                                             -->
+
+	<!-- GLM substitution model                                                  -->
+
+    <glmSubstitutionModel id="location.model">        <generalDataType idref="location.dataType"/>
+        <rootFrequencies>
+        <frequencyModel id="location.frequencyModel" normalize="true">
+        <generalDataType idref="location.dataType"/>
+        <frequencies>
+            <parameter id="location.frequencies" dimension="19"/>
+        </frequencies>
+        </frequencyModel>
+        </rootFrequencies>
+        <glmModel family="logLinear" checkIdentifiability="true">
+        <independentVariables>
+        <parameter id="location.coefficients" value="0.0"/>
+        <indicator>
+        <parameter id="location.coefIndicators" value="1.0"/>
+        </indicator>
+        <designMatrix id="location.designMatrix">
+            <parameter id="location.subset.geographic" value="0.909016044962029 -0.698606023896167 0.330876582682929 0.844277746920646 -0.108178220165455 0.0739040971945573 0.944683351977263 0.906468686084809 0.941634263373598 0.869825520772164 0.89783745085578 1.38925600086193 0.453590869929639 0.924339214812289 -1.29540545847543 1.03114307164666 0.589417707195745 -0.087651524132574 0.594013620742464 0.358134425782813 0.233368737393547 0.568494716461955 0.5980241193818 -2.89588883242977 -2.23995975855574 -1.21208266233823 -2.00618464046482 -1.77002949314736 0.639495747615089 0.608439501010088 -3.82420023001785 0.740119548275634 -0.775508386228946 0.393591667322057 0.473932917339996 -0.047859482979991 0.627038219460311 -0.582007773599692 -0.227148856519706 0.642972993597841 0.5844489157967 0.670457853927209 0.535326621996577 0.598535387619938 1.34377084593046 0.29046643089028 0.612950628136978 -1.68805707368098 0.794884597761076 0.351642429502293 -0.744968534980358 -0.289092248415687 -0.976057126141948 -1.23782185268024 0.418022406706171 0.262187784673186 0.596140964129416 0.208670335113183 0.484005218700101 0.945567167707444 -0.85039367318164 0.361617794890325 0.076406091774877 0.718443395425011 -1.02451735794805 -0.941013869435651 0.198146049208129 0.0293036084211511 0.26573813152258 0.0936430536861947 0.509594526786733 0.0817998240870439 0.4166404723617 0.471031077913264 -0.450717369157522 0.214290095436341 0.70065953428054 0.573427885599543 -0.989532118678396 0.223139525745726 -1.72374025670409 0.622319661601249 0.510521156269483 0.736817808543054 0.460567409557876 0.642722316888391 1.12670606101351 -0.428080835944676 0.57809098675312 -0.475095376138825 0.857710868908659 -0.278044227262272 -2.07218879172533 0.648545940461785 0.527023269979746 0.783796891553619 0.482225602474458 0.690059499361782 1.03744457329284 -0.865469046255334 0.60314462099103 -0.179299749627542 0.89438284999263 -0.571524792207757 -1.17299357419585 -1.88331484021697 -1.37834366213879 -1.62689993699052 -1.87253015733036 0.600162806098834 0.648782914552455 -3.05260684795225 0.783302164767373 -0.941516450153619 0.439280506802084 0.532626049441733 -0.826525422595954 -3.02763792213789 -1.1888633305466 0.619275456080897 0.516120279112689 -2.36696980693668 0.730602819961858 -0.526617377907544 0.27834997433953 0.419596371520183 -0.753092064120584 -2.11819243950218 0.644877072133719 0.818652993172655 -1.16963863744781 0.802980368291249 -1.75264324004301 0.644654328046034 0.644453729345879 -1.12477104720377 0.660790801104221 0.485660344278366 -2.01525674284994 0.68730851258972 -0.442328572585426 0.244793036157184 0.363691626658366 0.682933468127528 0.730617213752785 -1.65341547931604 0.74207175892113 -1.16190612063534 0.544409746817661 0.54433879173165 0.801647116505197 0.617327220034895 1.37669423331951 0.532111382749085 0.731354143677904 1.14690377994245 0.604072893854913 0.313478422934007 0.90181015200579 -1.36519280224224 -0.256646595676475 0.756761907894758 -0.774427892142932 0.38633705814554 0.486439090913667 0.91234030631619 0.42099652502256 -0.516070783314115 0.734945068711276 0.776227076817688 -0.201987120377383 0.909016044962029 -0.698606023896167 0.330876582682929 0.844277746920646 -0.108178220165455 0.0739040971945573 0.944683351977263 0.906468686084809 0.941634263373598 0.869825520772164 0.89783745085578 1.38925600086193 0.453590869929639 0.924339214812289 -1.29540545847543 1.03114307164666 0.589417707195745 -0.087651524132574 0.594013620742464 0.358134425782813 0.233368737393547 0.568494716461955 0.5980241193818 -2.89588883242977 -2.23995975855574 -1.21208266233823 -2.00618464046482 -1.77002949314736 0.639495747615089 0.608439501010088 -3.82420023001785 0.740119548275634 -0.775508386228946 0.393591667322057 0.473932917339996 -0.047859482979991 0.627038219460311 -0.582007773599692 -0.227148856519706 0.642972993597841 0.5844489157967 0.670457853927209 0.535326621996577 0.598535387619938 1.34377084593046 0.29046643089028 0.612950628136978 -1.68805707368098 0.794884597761076 0.351642429502293 -0.744968534980358 -0.289092248415687 -0.976057126141948 -1.23782185268024 0.418022406706171 0.262187784673186 0.596140964129416 0.208670335113183 0.484005218700101 0.945567167707444 -0.85039367318164 0.361617794890325 0.076406091774877 0.718443395425011 -1.02451735794805 -0.941013869435651 0.198146049208129 0.0293036084211511 0.26573813152258 0.0936430536861947 0.509594526786733 0.0817998240870439 0.4166404723617 0.471031077913264 -0.450717369157522 0.214290095436341 0.70065953428054 0.573427885599543 -0.989532118678396 0.223139525745726 -1.72374025670409 0.622319661601249 0.510521156269483 0.736817808543054 0.460567409557876 0.642722316888391 1.12670606101351 -0.428080835944676 0.57809098675312 -0.475095376138825 0.857710868908659 -0.278044227262272 -2.07218879172533 0.648545940461785 0.527023269979746 0.783796891553619 0.482225602474458 0.690059499361782 1.03744457329284 -0.865469046255334 0.60314462099103 -0.179299749627542 0.89438284999263 -0.571524792207757 -1.17299357419585 -1.88331484021697 -1.37834366213879 -1.62689993699052 -1.87253015733036 0.600162806098834 0.648782914552455 -3.05260684795225 0.783302164767373 -0.941516450153619 0.439280506802084 0.532626049441733 -0.826525422595954 -3.02763792213789 -1.1888633305466 0.619275456080897 0.516120279112689 -2.36696980693668 0.730602819961858 -0.526617377907544 0.27834997433953 0.419596371520183 -0.753092064120584 -2.11819243950218 0.644877072133719 0.818652993172655 -1.16963863744781 0.802980368291249 -1.75264324004301 0.644654328046034 0.644453729345879 -1.12477104720377 0.660790801104221 0.485660344278366 -2.01525674284994 0.68730851258972 -0.442328572585426 0.244793036157184 0.363691626658366 0.682933468127528 0.730617213752785 -1.65341547931604 0.74207175892113 -1.16190612063534 0.544409746817661 0.54433879173165 0.801647116505197 0.617327220034895 1.37669423331951 0.532111382749085 0.731354143677904 1.14690377994245 0.604072893854913 0.313478422934007 0.90181015200579 -1.36519280224224 -0.256646595676475 0.756761907894758 -0.774427892142932 0.38633705814554 0.486439090913667 0.91234030631619 0.42099652502256 -0.516070783314115 0.734945068711276 0.776227076817688 -0.201987120377383"/>
+            <parameter id="location.subset.effective" value="0.753374442276957 -2.48032539804213 0.851087159410032 0.0422892480497892 -0.332439795878788 0.906970903925371 -0.395390227216932 -0.287983993318647 1.21923032060599 0.86642588934051 -0.529391585216182 0.429576033297868 -0.327674377958162 0.00258077293814612 -0.659362605068341 0.701436448835217 -1.61952351556694 -0.345682469389563 0.8609173546272 1.14807930456008 -0.185175834520586 1.04732535605168 1.19780329248122 -1.2600600983715 -1.15063938433805 -0.507757765048666 -0.417995971540578 -1.62225085353344 0.777136257890538 0.531134720706617 -0.109331968024175 1.99991068850833 -0.690493486666779 -0.893669979436243 1.18475481852056 0.617412048649224 -0.285955398884274 -0.517890860310841 0.678667713386295 -0.856246624399769 -0.686738358897239 1.0205360999277 0.723400579301654 -0.554228666099519 0.150851473423877 -0.362051199786976 -0.353292970070236 -0.449567286872956 -0.133782900607494 -2.29918640786554 -0.153488913095268 -1.11969465968656 0.186966138103835 0.250751311588949 -0.391405782290046 -0.672517399398647 1.13856338822321 0.303688810902496 0.217216356243182 -0.388336064720214 -0.791354162490887 -0.0191826456609983 1.34861185013863 0.46738333250252 -4.09726061695917 0.459043764364303 0.345412276575084 0.405351264416217 -0.778908908372575 -1.10932064330805 0.564592672395297 0.455165561673964 -0.0996092097453019 -0.238871194929525 -0.955241442582256 -0.39639222050188 1.44963252505119 0.248335003400968 -3.32978638456341 0.601704346798674 -0.286367561794712 -0.430746322683094 -0.0942932556431011 1.2313652969823 0.710075521992176 0.483631463022769 0.134110905564758 -1.06543837199475 0.438058206663355 0.90766162827935 0.850025267205716 -2.34374968520776 -1.21759656938779 -0.117929656078892 -0.368600445111504 1.29113278013673 0.513832757715699 0.434398360890434 -0.11517586485099 -1.06261200079744 0.218409640881485 1.01126723255306 0.664798592507263 -3.07594538545674 -0.334949397970769 -1.36435648742661 -0.598022999963437 -0.138463525086354 -1.30382045000422 -0.0801022855919596 0.392143116903879 -0.586455280108091 1.60751682439004 -1.1601107688725 -1.14390428557575 0.673393839497564 -0.540799862609333 -1.12054472165234 -1.06997986621165 0.24106948816911 0.246764653424639 -0.96457159012796 1.70567993986658 -0.605967503058515 -1.41842101233784 1.13987875231428 0.173022097919785 -1.43386542159965 0.856520668903216 1.07603782785288 -0.644568953782021 2.12968852220193 -0.814660990295646 -0.000865828360341335 1.39905636419368 -0.810822504514843 0.574598275915719 0.306844588609106 -0.762355881477843 1.87726020131577 0.113710873164832 -1.30325735611406 1.1821595194729 0.145649052350088 0.635443469680537 -0.847101169650756 1.58858712306694 -0.544189850321648 -0.712732121887949 0.600516117189385 0.0493943483227752 -0.0400210418389594 1.74260488057896 0.100655088298135 -1.81615874192164 1.00311128055137 -0.0413008002237529 1.38487467749162 0.532676629718736 -3.72108782074137 0.309093292539707 1.57612131295191 -0.754615525445111 -1.32657789426955 1.05597045521288 0.636388871042585 -1.10344825547993 0.527107951628435 -0.54452576253467 1.42211006088161 0.00955132637660813 0.993516569291981 -1.9285748380451 0.417680503464211 0.562638462531613 -0.415304270231445 0.618880165759897 0.636583188522838 0.756439450956928 1.34403141977733 1.07888390210126 0.330195884340147 0.969843298148699 0.074501222429602 0.568230151819091 -2.56164675544469 1.15147627928545 -0.0399809066213101 -0.744792053059869 0.770272480556675 0.493598118379381 0.028647704476986 0.759639833910456 0.689045024655565 -0.253542293772137 -0.111021143717967 -0.678720307165722 -0.451293838384986 -0.831185267361313 1.03098461556484 0.558223410114358 0.157091432223867 1.28364461810674 -0.319048869674054 0.0508079229907711 0.731965512000348 -0.0807677556844116 0.0948573757953022 -0.903652335781606 0.162434986900532 0.14127957803913 0.314441414479966 1.01116575620201 0.788392496841805 0.107279869005139 0.577715234027509 -0.179873934741906 0.0847779507051607 -2.71862159621667 0.275068883688907 -0.650844331409387 -0.80404385462994 0.231407076704823 0.603512220698106 0.398425959682329 1.03996633398179 0.928327158470684 1.58414065584703 0.97428218759857 1.23007476336959 0.779203321931971 0.251112471224239 0.964874195946753 1.05703217297537 1.30920005124009 -0.330350363820439 0.649633175407959 -0.305881665257749 -0.605738816543948 -0.171262107836913 -0.353513468000344 0.239534762875313 0.210647905518951 0.114394247950748 -0.100927636958528 -1.27046063129222 -0.339892573073073 0.322092477538342 0.300965598319833 -1.78741848409434 -0.239946165262067 -0.673448399949249 0.669158441980781 0.935002369693857 1.28850899804932 0.980836766803257 1.13382846639421 0.786285464645782 -0.450435260617183 0.971453292582058 0.128560131351611 1.27924839572851 -0.319352561118435 -1.66020230794254 1.09185067745116 0.982539810996357 1.626019281051 1.02752415581667 1.2782198976314 0.836687995731311 -0.0935357976302491 1.01831347426564 0.535251182429913 1.35586870700463 -0.241569800042649 -0.256303950776081 -1.2553498736582 -2.08460843720196 -1.13328492840481 -1.78797302374841 -0.502640657905766 -0.300034276054426 -1.23831175472246 0.12541224608428 -1.99381366052566 -1.04697541751733 -0.739333271409739 -2.12089486479238 -2.97539963114845 -1.62869988373279 -0.194528256099086 -0.570563423240854 -1.87280494511428 0.241408459062603 -1.33080573494857 -1.41818480540958 -0.0336112393363271 0.269859984976111 -0.520875692445144 1.19448039392647 1.18872271578217 -0.162088894037425 1.53396148678109 -0.269484012182991 0.802912554869939 1.07667394300784 -0.177688290385122 0.878720984977928 0.373310214664752 -0.359846339823991 1.14633015951538 0.412171199566698 -0.177338515210177 0.754300981604841 0.0365883694669567 0.289237101122355 -1.13136869904319 0.333785281660388 -0.784427490021263 -0.282410012923866 -0.523012422394629 -0.297073949826487 -0.122363916122161 0.671321293995048 0.0314213475783863 -1.042992939012 0.189585559375979 0.294572293347323 0.397676693827355 0.735245208128143 -1.57934246781954 -0.408128678557893 0.476634782724747 -0.737237112444059 -0.573839305776792 0.304866492832497 1.68310344955005 1.041550937123 1.0426455162257 0.0195185320299443 0.803422472840359 -2.19791582366403"/>
+        </designMatrix>
+        </independentVariables>
+        </glmModel>
+    </glmSubstitutionModel>
+
+	<!-- GLM: statistic that returns the product of the coefficients and the respective indicators for the predictors-->
+	<productStatistic id="location.coefficientsTimesIndicators">
+		<parameter idref="location.coefficients"/>
+		<parameter idref="location.coefIndicators"/>
+	</productStatistic>
+
+	<!-- GLM: the number of predictors included in the model (non-zero indicators)-->
+	<sumStatistic id="location.includedPredictors">
+		<parameter idref="location.coefIndicators"/>
+	</sumStatistic>
+	<siteModel id="location.siteModel">
+		<substitutionModel>
+			<glmSubstitutionModel idref="location.model"/>
+		</substitutionModel>
+	</siteModel>
+
+	<!-- Likelihood for tree given discrete trait data                           -->
+	<ancestralTreeLikelihood id="location.treeLikelihood" stateTagName="location.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="location.pattern"/>
+		<treeModel idref="treeModel"/>
+		<siteModel idref="location.siteModel"/>
+		<glmSubstitutionModel idref="location.model"/>
+		<generalSubstitutionModel idref="location.model"/>
+		<strictClockBranchRates idref="location.branchRates"/>
+	</ancestralTreeLikelihood>
+
+	<!-- END Discrete Traits Model                                               -->
+
+	<!-- Define operators                                                        -->
+	<operators id="operators" optimizationSchedule="log">
+		<scaleOperator scaleFactor="0.75" weight="1">
+			<parameter idref="kappa"/>
+		</scaleOperator>
+		<deltaExchange delta="0.01" weight="1">
+			<parameter idref="frequencies"/>
+		</deltaExchange>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="default.clock.rate"/>
+		</scaleOperator>
+		<upDownOperator scaleFactor="0.75" weight="3">
+			<up>
+				<parameter idref="treeModel.allInternalNodeHeights"/>
+			</up>
+			<down>
+				<parameter idref="default.clock.rate"/>
+			</down>
+		</upDownOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="location.clock.rate"/>
+		</scaleOperator>
+		<upDownOperator scaleFactor="0.75" weight="3">
+			<up>
+				<parameter idref="treeModel.allInternalNodeHeights"/>
+			</up>
+			<down>
+				<parameter idref="location.clock.rate"/>
+			</down>
+		</upDownOperator>
+		<subtreeSlide size="1.0" gaussian="true" weight="30">
+			<treeModel idref="treeModel"/>
+		</subtreeSlide>
+		<narrowExchange weight="30">
+			<treeModel idref="treeModel"/>
+		</narrowExchange>
+		<wideExchange weight="3">
+			<treeModel idref="treeModel"/>
+		</wideExchange>
+		<wilsonBalding weight="3">
+			<treeModel idref="treeModel"/>
+		</wilsonBalding>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="treeModel.rootHeight"/>
+		</scaleOperator>
+		<uniformOperator weight="30">
+			<parameter idref="treeModel.internalNodeHeights"/>
+		</uniformOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="exponential.popSize"/>
+		</scaleOperator>
+		<randomWalkOperator windowSize="1.0" weight="3">
+			<parameter idref="exponential.growthRate"/>
+		</randomWalkOperator>
+		<randomWalkOperator windowSize="0.75" weight="5">
+			<parameter idref="location.coefficients"/>
+		</randomWalkOperator>
+		<bitFlipOperator weight="5">
+			<parameter idref="location.coefIndicators"/>
+		</bitFlipOperator>
+
+		<!-- START Discrete Traits Model                                             -->
+		<mvnOperator scaleFactor="1.0" weight="5.0" formXtXInverse="true">
+			<parameter idref="location.coefficients"/>
+			<varMatrix>
+				<parameter idref="location.designMatrix"/>
+			</varMatrix>
+		</mvnOperator>
+
+		<!-- END Discrete Traits Model                                               -->
+
+	</operators>
+	
+	<!-- Define MCMC                                                             -->
+	<mcmc id="mcmc" chainLength="100000000" autoOptimize="true" operatorAnalysis="beast_glm.ops">
+		<joint id="joint">
+			<prior id="prior">
+				<logNormalPrior mu="1.0" sigma="1.25" offset="0.0">
+					<parameter idref="kappa"/>
+				</logNormalPrior>
+				<dirichletPrior alpha="1.0" sumsTo="1.0">
+					<parameter idref="frequencies"/>
+				</dirichletPrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="default.clock.rate"/>
+					</ctmcScale>
+					<treeModel idref="treeModel"/>
+				</ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="location.clock.rate"/>
+					</ctmcScale>
+					<treeModel idref="treeModel"/>
+				</ctmcScalePrior>
+				<oneOnXPrior>
+					<parameter idref="exponential.popSize"/>
+				</oneOnXPrior>
+				<laplacePrior mean="0.0" scale="1.0">
+					<parameter idref="exponential.growthRate"/>
+				</laplacePrior>
+				<normalPrior mean="0.0" stdev="2.0">
+					<parameter idref="location.coefficients"/>
+				</normalPrior>
+				<coalescentLikelihood idref="coalescent"/>
+				
+				
+				<strictClockBranchRates idref="default.branchRates"/>
+				<strictClockBranchRates idref="location.branchRates"/>
+
+				<!-- START Discrete Traits Model                                             -->
+
+				<!-- Using the binomialLikelihood we specify a 50% prior mass on no predictors being included.-->
+				<binomialLikelihood>
+					<proportion>
+						<parameter value="0.2928932188134524"/>
+					</proportion>
+					<trials>
+						<parameter value="1.0"/>
+					</trials>
+					<counts>
+						<parameter idref="location.coefIndicators"/>
+					</counts>
+				</binomialLikelihood>
+				<glmSubstitutionModel idref="location.model"/>
+
+				<!-- END Discrete Traits Model                                               -->
+
+			</prior>
+			<likelihood id="likelihood">
+				<treeDataLikelihood idref="default.treeLikelihood"/>
+
+				<!-- START Discrete Traits Model                                             -->
+				<ancestralTreeLikelihood idref="location.treeLikelihood"/>
+
+				<!-- END Discrete Traits Model                                               -->
+
+			</likelihood>
+		</joint>
+		<operators idref="operators"/>
+
+		<!-- write log to screen                                                     -->
+		<log id="screenLog" logEvery="1000">
+			<column label="Joint" dp="4" width="12">
+				<joint idref="joint"/>
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior"/>
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood"/>
+			</column>
+			<column label="age(root)" sf="6" width="12">
+				<tmrcaStatistic idref="age(root)"/>
+			</column>
+			<column label="default.clock.rate" sf="6" width="12">
+				<parameter idref="default.clock.rate"/>
+			</column>
+			<column label="location.clock.rate" sf="6" width="12">
+				<parameter idref="location.clock.rate"/>
+			</column>
+
+			<!-- START Discrete Traits Model                                             -->
+			<column label="location.incPredictors" dp="0" width="6">
+				<sumStatistic idref="location.includedPredictors"/>
+			</column>
+
+			<!-- END Discrete Traits Model                                               -->
+
+		</log>
+
+		<!-- write log to file                                                       -->
+		<log id="fileLog" logEvery="10000" fileName="beast_glm.log" overwrite="false">
+			<joint idref="joint"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="treeModel.rootHeight"/>
+			<tmrcaStatistic idref="age(root)"/>
+			<treeLengthStatistic idref="treeLength"/>
+			<parameter idref="exponential.popSize"/>
+			<parameter idref="exponential.growthRate"/>
+			<parameter idref="kappa"/>
+			<parameter idref="frequencies"/>
+			<parameter idref="default.clock.rate"/>
+			<parameter idref="location.clock.rate"/>
+			<rateStatistic idref="default.meanRate"/>
+			<rateStatistic idref="location.meanRate"/>
+
+			<!-- START Discrete Traits Model                                             -->
+			<sumStatistic idref="location.includedPredictors"/>
+			<productStatistic idref="location.coefficientsTimesIndicators"/>
+
+			<!-- END Discrete Traits Model                                               -->
+
+			<treeDataLikelihood idref="default.treeLikelihood"/>
+			<strictClockBranchRates idref="default.branchRates"/>
+			<strictClockBranchRates idref="location.branchRates"/>
+
+			<!-- START Discrete Traits Model                                             -->
+			<ancestralTreeLikelihood idref="location.treeLikelihood"/>
+
+			<!-- END Discrete Traits Model                                               -->
+
+			<coalescentLikelihood idref="coalescent"/>
+			
+		</log>
+
+		<!-- START Discrete Traits Model                                             -->
+		<log id="subset.seq_v1.glm.locationglmLog" logEvery="10000" fileName="beast_glm.location.glm.log">
+			<parameter idref="location.coefficients"/>
+			<parameter idref="location.coefIndicators"/>
+			<productStatistic idref="location.coefficientsTimesIndicators"/>
+		</log>
+
+		<!-- END Discrete Traits Model                                               -->
+
+
+		<!-- write tree log to file                                                  -->
+		<logTree id="treeFileLog" logEvery="10000" nexusFormat="true" fileName="beast_glm.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<trait name="rate" tag="default.rate">
+				<strictClockBranchRates idref="default.branchRates"/>
+			</trait>
+			<trait name="rate" tag="location.rate">
+				<strictClockBranchRates idref="location.branchRates"/>
+			</trait>
+			<joint idref="joint"/>
+
+			<!-- START Ancestral state reconstruction                                    -->
+			<trait name="location.states" tag="location">
+				<ancestralTreeLikelihood idref="location.treeLikelihood"/>
+			</trait>
+
+			<!-- END Ancestral state reconstruction                                      -->
+
+		</logTree>
+	</mcmc>
+	
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+	
+</beast>
