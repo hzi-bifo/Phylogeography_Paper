@@ -1,301 +1,451 @@
 distance,analysis,simulation
-84653.01,1,1
-82032.91,2,1
-41349.59,3,1
-38852.84,4,1
-88217.35,1,2
-116835.4,2,2
-46878.03,3,2
-38037.6,4,2
-44600,1,3
-31908.76,2,3
-36372.09,3,3
-22595.09,4,3
-110562.3,1,4
-27278.22,2,4
-82097.92,3,4
-30110.81,4,4
-82489.14,1,5
-26589.29,2,5
-46170.9,3,5
-34879.61,4,5
-89669.21,1,6
-48067.2,2,6
-105873.9,3,6
-42403.41,4,6
-79088.95,1,7
-16136.35,2,7
-39778.77,3,7
-35365.15,4,7
-26261.36,1,8
-23725.85,2,8
-108802.4,3,8
-37798.26,4,8
-93123.05,1,9
-26562.56,2,9
-58435.75,3,9
-28110.29,4,9
-84981.2,1,10
-32699.31,2,10
-50110.63,3,10
-36652.92,4,10
-75084.93,1,11
-28519.58,2,11
-86673.05,3,11
-31678.56,4,11
-91459.9,1,12
-59071.04,2,12
-55699.74,3,12
-47397.63,4,12
-96503.16,1,13
-38596.08,2,13
-47432.73,3,13
-44957.79,4,13
-49021.02,1,14
-17663.45,2,14
-39450.88,3,14
-46079.05,4,14
-105580.8,1,15
-45870.18,2,15
-99442.09,3,15
-21568.51,4,15
-87620.07,1,16
-50248.6,2,16
-93924.83,3,16
-38504.12,4,16
-39061.07,1,17
-27410.45,2,17
-70163.18,3,17
-35145.15,4,17
-79062.73,1,18
-26379.79,2,18
-100020.1,3,18
-31668.54,4,18
-96013.97,1,19
-41219.3,2,19
-46414.87,3,19
-99390.77,4,19
-68178.12,1,20
-38231.44,2,20
-26678.51,3,20
-25584.28,4,20
-58474.51,1,21
-77046.08,2,21
-65807.98,3,21
-55575.56,4,21
-49645.82,1,22
-30516.42,2,22
-62727.71,3,22
-28499.82,4,22
-93899.85,1,23
-26349.56,2,23
-37679.95,3,23
-32828.01,4,23
-83126.38,1,24
-29128.29,2,24
-123789.3,3,24
-58923.44,4,24
-74945.93,1,25
-33501.09,2,25
-49614.89,3,25
-50171.36,4,25
-50375.9,1,26
-49317.35,2,26
-92680.89,3,26
-47967.61,4,26
-83825.36,1,27
-42890.63,2,27
-98033.1,3,27
-18566.75,4,27
-38991.74,1,28
-30379.27,2,28
-19746.3,3,28
-27417.97,4,28
-76138.79,1,29
-28732.1,2,29
-57112.58,3,29
-39477.24,4,29
-84122.9,1,30
-61586.44,2,30
-97268.03,3,30
-41462.28,4,30
-34232.01,1,31
-27937.16,2,31
-42323.83,3,31
-35424.8,4,31
-85278.49,1,32
-44302.46,2,32
-53903.91,3,32
-30687.59,4,32
-52437.23,1,33
-94841.9,2,33
-127295.4,3,33
-84302.9,4,33
-77946.35,1,34
-106575.8,2,34
-88075.61,3,34
-30925.17,4,34
-46674.26,1,35
-37985.09,2,35
-83598.69,3,35
-62204.27,4,35
-89665.84,1,36
-53916.8,2,36
-32233.67,3,36
-28999.3,4,36
-55348.49,1,37
-32648.29,2,37
-32914.58,3,37
-28197.38,4,37
-102633.1,1,38
-25072.04,2,38
-41161.89,3,38
-53695.96,4,38
-92996.31,1,39
-42141.7,2,39
-100815,3,39
-31234.41,4,39
-86017.59,1,40
-47814.91,2,40
-47352.24,3,40
-49383.82,4,40
-86071.14,1,41
-80046.5,2,41
-35920.16,3,41
-30528.88,4,41
-59201.31,1,42
-62925.82,2,42
-51318.41,3,42
-104750.2,4,42
-55605.73,1,43
-29881.36,2,43
-31977.31,3,43
-32235.49,4,43
-104082.4,1,44
-97563.64,2,44
-98297.59,3,44
-43332.52,4,44
-44070.16,1,45
-22023.47,2,45
-21150.54,3,45
-24466.15,4,45
-89272.03,1,46
-29604.8,2,46
-71815.45,3,46
-28038.01,4,46
-30937.01,1,47
-28997.81,2,47
-43124.11,3,47
-44562.37,4,47
-75866.95,1,48
-60791.02,2,48
-49658.92,3,48
-39654.26,4,48
-50882.64,1,49
-17553.29,2,49
-42594.72,3,49
-25571.56,4,49
-94183.17,1,50
-39085.63,2,50
-50470.56,3,50
-47541.98,4,50
-23146.13,5,1
-52012.95,5,2
-96476.35,5,3
-89375.53,5,4
-147665.3,5,5
-41948.67,5,6
-39506.03,5,7
-53447.38,5,8
-68514.38,5,9
-73234.27,5,10
-24106.55,5,11
-35960.68,5,12
-106607.1,5,13
-44554.16,5,14
-99802.03,5,15
-125620.8,5,16
-41523.18,5,17
-65153.19,5,18
-53873.65,5,19
-23362.96,5,20
-82598.62,5,21
-95102.42,5,22
-81949.95,5,23
-31501.15,5,24
-87436.15,5,25
-54789.62,5,26
-36803.32,5,27
-42421.52,5,28
-82244.59,5,29
-110480.4,5,30
-38694.84,5,31
-95992.77,5,32
-116811.2,5,33
-51879.99,5,34
-71299.2,5,35
-61030.43,5,36
-39272.72,5,37
-107280,5,38
-100788.5,5,39
-62748.21,5,40
-86210.01,5,41
-71747.73,5,42
-35605.93,5,43
-43894.47,5,44
-65839.87,5,45
-94980.43,5,46
-38012.05,5,47
-54208.82,5,48
-78703.39,5,49
-99136.77,5,50
-39807.45,6,1
-40565.55,6,2
-44532.95,6,3
-78648.81,6,4
-125838.5,6,5
-59311.88,6,6
-34384.9,6,7
-62586.34,6,8
-56420.54,6,9
-76993,6,10
-44889.59,6,11
-24667.78,6,12
-125060.1,6,13
-131621.8,6,14
-137618.9,6,15
-38653.94,6,16
-37768.45,6,17
-73701.51,6,18
-61183.01,6,19
-29465.18,6,20
-109708.9,6,21
-98436.48,6,22
-62466.68,6,23
-47828.01,6,24
-82885.65,6,25
-34042.55,6,26
-40789.41,6,27
-45210.12,6,28
-41926,6,29
-100013.5,6,30
-40530.7,6,31
-57421.85,6,32
-107171.9,6,33
-64687.01,6,34
-99934.33,6,35
-77272.18,6,36
-31770.82,6,37
-83893.72,6,38
-89987,6,39
-42474.72,6,40
-42474.72,6,41
-77456.02,6,42
-48818.46,6,43
-54562.64,6,44
-68709.06,6,45
-46761.63,6,46
-38707.56,6,47
-60214.18,6,48
-55042.56,6,49
-98362.88,6,50
+84653.01,"inf. tree, geographic dist.",1
+82032.91,"inf. tree, effective dist.",1
+41349.59,"sim. tree, geographic dist.",1
+38852.84,"sim. tree, effective dist.",1
+88217.35,"inf. tree, geographic dist.",2
+116835.4,"inf. tree, effective dist.",2
+46878.03,"sim. tree, geographic dist.",2
+38037.6,"sim. tree, effective dist.",2
+44600,"inf. tree, geographic dist.",3
+31908.76,"inf. tree, effective dist.",3
+36372.09,"sim. tree, geographic dist.",3
+22595.09,"sim. tree, effective dist.",3
+110562.3,"inf. tree, geographic dist.",4
+27278.22,"inf. tree, effective dist.",4
+82097.92,"sim. tree, geographic dist.",4
+30110.81,"sim. tree, effective dist.",4
+82489.14,"inf. tree, geographic dist.",5
+26589.29,"inf. tree, effective dist.",5
+46170.9,"sim. tree, geographic dist.",5
+34879.61,"sim. tree, effective dist.",5
+89669.21,"inf. tree, geographic dist.",6
+48067.2,"inf. tree, effective dist.",6
+105873.9,"sim. tree, geographic dist.",6
+42403.41,"sim. tree, effective dist.",6
+79088.95,"inf. tree, geographic dist.",7
+16136.35,"inf. tree, effective dist.",7
+39778.77,"sim. tree, geographic dist.",7
+35365.15,"sim. tree, effective dist.",7
+26261.36,"inf. tree, geographic dist.",8
+23725.85,"inf. tree, effective dist.",8
+108802.4,"sim. tree, geographic dist.",8
+37798.26,"sim. tree, effective dist.",8
+93123.05,"inf. tree, geographic dist.",9
+26562.56,"inf. tree, effective dist.",9
+58435.75,"sim. tree, geographic dist.",9
+28110.29,"sim. tree, effective dist.",9
+84981.2,"inf. tree, geographic dist.",10
+32699.31,"inf. tree, effective dist.",10
+50110.63,"sim. tree, geographic dist.",10
+36652.92,"sim. tree, effective dist.",10
+75084.93,"inf. tree, geographic dist.",11
+28519.58,"inf. tree, effective dist.",11
+86673.05,"sim. tree, geographic dist.",11
+31678.56,"sim. tree, effective dist.",11
+91459.9,"inf. tree, geographic dist.",12
+59071.04,"inf. tree, effective dist.",12
+55699.74,"sim. tree, geographic dist.",12
+47397.63,"sim. tree, effective dist.",12
+96503.16,"inf. tree, geographic dist.",13
+38596.08,"inf. tree, effective dist.",13
+47432.73,"sim. tree, geographic dist.",13
+44957.79,"sim. tree, effective dist.",13
+49021.02,"inf. tree, geographic dist.",14
+17663.45,"inf. tree, effective dist.",14
+39450.88,"sim. tree, geographic dist.",14
+46079.05,"sim. tree, effective dist.",14
+105580.8,"inf. tree, geographic dist.",15
+45870.18,"inf. tree, effective dist.",15
+99442.09,"sim. tree, geographic dist.",15
+21568.51,"sim. tree, effective dist.",15
+87620.07,"inf. tree, geographic dist.",16
+50248.6,"inf. tree, effective dist.",16
+93924.83,"sim. tree, geographic dist.",16
+38504.12,"sim. tree, effective dist.",16
+39061.07,"inf. tree, geographic dist.",17
+27410.45,"inf. tree, effective dist.",17
+70163.18,"sim. tree, geographic dist.",17
+35145.15,"sim. tree, effective dist.",17
+79062.73,"inf. tree, geographic dist.",18
+26379.79,"inf. tree, effective dist.",18
+100020.1,"sim. tree, geographic dist.",18
+31668.54,"sim. tree, effective dist.",18
+96013.97,"inf. tree, geographic dist.",19
+41219.3,"inf. tree, effective dist.",19
+46414.87,"sim. tree, geographic dist.",19
+99390.77,"sim. tree, effective dist.",19
+68178.12,"inf. tree, geographic dist.",20
+38231.44,"inf. tree, effective dist.",20
+26678.51,"sim. tree, geographic dist.",20
+25584.28,"sim. tree, effective dist.",20
+58474.51,"inf. tree, geographic dist.",21
+77046.08,"inf. tree, effective dist.",21
+65807.98,"sim. tree, geographic dist.",21
+55575.56,"sim. tree, effective dist.",21
+49645.82,"inf. tree, geographic dist.",22
+30516.42,"inf. tree, effective dist.",22
+62727.71,"sim. tree, geographic dist.",22
+28499.82,"sim. tree, effective dist.",22
+93899.85,"inf. tree, geographic dist.",23
+26349.56,"inf. tree, effective dist.",23
+37679.95,"sim. tree, geographic dist.",23
+32828.01,"sim. tree, effective dist.",23
+83126.38,"inf. tree, geographic dist.",24
+29128.29,"inf. tree, effective dist.",24
+123789.3,"sim. tree, geographic dist.",24
+58923.44,"sim. tree, effective dist.",24
+74945.93,"inf. tree, geographic dist.",25
+33501.09,"inf. tree, effective dist.",25
+49614.89,"sim. tree, geographic dist.",25
+50171.36,"sim. tree, effective dist.",25
+50375.9,"inf. tree, geographic dist.",26
+49317.35,"inf. tree, effective dist.",26
+92680.89,"sim. tree, geographic dist.",26
+47967.61,"sim. tree, effective dist.",26
+83825.36,"inf. tree, geographic dist.",27
+42890.63,"inf. tree, effective dist.",27
+98033.1,"sim. tree, geographic dist.",27
+18566.75,"sim. tree, effective dist.",27
+38991.74,"inf. tree, geographic dist.",28
+30379.27,"inf. tree, effective dist.",28
+19746.3,"sim. tree, geographic dist.",28
+27417.97,"sim. tree, effective dist.",28
+76138.79,"inf. tree, geographic dist.",29
+28732.1,"inf. tree, effective dist.",29
+57112.58,"sim. tree, geographic dist.",29
+39477.24,"sim. tree, effective dist.",29
+84122.9,"inf. tree, geographic dist.",30
+61586.44,"inf. tree, effective dist.",30
+97268.03,"sim. tree, geographic dist.",30
+41462.28,"sim. tree, effective dist.",30
+34232.01,"inf. tree, geographic dist.",31
+27937.16,"inf. tree, effective dist.",31
+42323.83,"sim. tree, geographic dist.",31
+35424.8,"sim. tree, effective dist.",31
+85278.49,"inf. tree, geographic dist.",32
+44302.46,"inf. tree, effective dist.",32
+53903.91,"sim. tree, geographic dist.",32
+30687.59,"sim. tree, effective dist.",32
+52437.23,"inf. tree, geographic dist.",33
+94841.9,"inf. tree, effective dist.",33
+127295.4,"sim. tree, geographic dist.",33
+84302.9,"sim. tree, effective dist.",33
+77946.35,"inf. tree, geographic dist.",34
+106575.8,"inf. tree, effective dist.",34
+88075.61,"sim. tree, geographic dist.",34
+30925.17,"sim. tree, effective dist.",34
+46674.26,"inf. tree, geographic dist.",35
+37985.09,"inf. tree, effective dist.",35
+83598.69,"sim. tree, geographic dist.",35
+62204.27,"sim. tree, effective dist.",35
+89665.84,"inf. tree, geographic dist.",36
+53916.8,"inf. tree, effective dist.",36
+32233.67,"sim. tree, geographic dist.",36
+28999.3,"sim. tree, effective dist.",36
+55348.49,"inf. tree, geographic dist.",37
+32648.29,"inf. tree, effective dist.",37
+32914.58,"sim. tree, geographic dist.",37
+28197.38,"sim. tree, effective dist.",37
+102633.1,"inf. tree, geographic dist.",38
+25072.04,"inf. tree, effective dist.",38
+41161.89,"sim. tree, geographic dist.",38
+53695.96,"sim. tree, effective dist.",38
+92996.31,"inf. tree, geographic dist.",39
+42141.7,"inf. tree, effective dist.",39
+100815,"sim. tree, geographic dist.",39
+31234.41,"sim. tree, effective dist.",39
+86017.59,"inf. tree, geographic dist.",40
+47814.91,"inf. tree, effective dist.",40
+47352.24,"sim. tree, geographic dist.",40
+49383.82,"sim. tree, effective dist.",40
+86071.14,"inf. tree, geographic dist.",41
+80046.5,"inf. tree, effective dist.",41
+35920.16,"sim. tree, geographic dist.",41
+30528.88,"sim. tree, effective dist.",41
+59201.31,"inf. tree, geographic dist.",42
+62925.82,"inf. tree, effective dist.",42
+51318.41,"sim. tree, geographic dist.",42
+104750.2,"sim. tree, effective dist.",42
+55605.73,"inf. tree, geographic dist.",43
+29881.36,"inf. tree, effective dist.",43
+31977.31,"sim. tree, geographic dist.",43
+32235.49,"sim. tree, effective dist.",43
+104082.4,"inf. tree, geographic dist.",44
+97563.64,"inf. tree, effective dist.",44
+98297.59,"sim. tree, geographic dist.",44
+43332.52,"sim. tree, effective dist.",44
+44070.16,"inf. tree, geographic dist.",45
+22023.47,"inf. tree, effective dist.",45
+21150.54,"sim. tree, geographic dist.",45
+24466.15,"sim. tree, effective dist.",45
+89272.03,"inf. tree, geographic dist.",46
+29604.8,"inf. tree, effective dist.",46
+71815.45,"sim. tree, geographic dist.",46
+28038.01,"sim. tree, effective dist.",46
+30937.01,"inf. tree, geographic dist.",47
+28997.81,"inf. tree, effective dist.",47
+43124.11,"sim. tree, geographic dist.",47
+44562.37,"sim. tree, effective dist.",47
+75866.95,"inf. tree, geographic dist.",48
+60791.02,"inf. tree, effective dist.",48
+49658.92,"sim. tree, geographic dist.",48
+39654.26,"sim. tree, effective dist.",48
+50882.64,"inf. tree, geographic dist.",49
+17553.29,"inf. tree, effective dist.",49
+42594.72,"sim. tree, geographic dist.",49
+25571.56,"sim. tree, effective dist.",49
+94183.17,"inf. tree, geographic dist.",50
+39085.63,"inf. tree, effective dist.",50
+50470.56,"sim. tree, geographic dist.",50
+47541.98,"sim. tree, effective dist.",50
+23146.13,"BEAST, symmetric",1
+52012.95,"BEAST, symmetric",2
+96476.35,"BEAST, symmetric",3
+89375.53,"BEAST, symmetric",4
+147665.3,"BEAST, symmetric",5
+41948.67,"BEAST, symmetric",6
+39506.03,"BEAST, symmetric",7
+53447.38,"BEAST, symmetric",8
+68514.38,"BEAST, symmetric",9
+73234.27,"BEAST, symmetric",10
+24106.55,"BEAST, symmetric",11
+35960.68,"BEAST, symmetric",12
+106607.1,"BEAST, symmetric",13
+44554.16,"BEAST, symmetric",14
+99802.03,"BEAST, symmetric",15
+125620.8,"BEAST, symmetric",16
+41523.18,"BEAST, symmetric",17
+65153.19,"BEAST, symmetric",18
+53873.65,"BEAST, symmetric",19
+23362.96,"BEAST, symmetric",20
+82598.62,"BEAST, symmetric",21
+95102.42,"BEAST, symmetric",22
+81949.95,"BEAST, symmetric",23
+31501.15,"BEAST, symmetric",24
+87436.15,"BEAST, symmetric",25
+54789.62,"BEAST, symmetric",26
+36803.32,"BEAST, symmetric",27
+42421.52,"BEAST, symmetric",28
+82244.59,"BEAST, symmetric",29
+110480.4,"BEAST, symmetric",30
+38694.84,"BEAST, symmetric",31
+95992.77,"BEAST, symmetric",32
+116811.2,"BEAST, symmetric",33
+51879.99,"BEAST, symmetric",34
+71299.2,"BEAST, symmetric",35
+61030.43,"BEAST, symmetric",36
+39272.72,"BEAST, symmetric",37
+107280,"BEAST, symmetric",38
+100788.5,"BEAST, symmetric",39
+62748.21,"BEAST, symmetric",40
+86210.01,"BEAST, symmetric",41
+71747.73,"BEAST, symmetric",42
+35605.93,"BEAST, symmetric",43
+43894.47,"BEAST, symmetric",44
+65839.87,"BEAST, symmetric",45
+94980.43,"BEAST, symmetric",46
+38012.05,"BEAST, symmetric",47
+54208.82,"BEAST, symmetric",48
+78703.39,"BEAST, symmetric",49
+99136.77,"BEAST, symmetric",50
+39807.45,"BEAST, asymmetric",1
+40565.55,"BEAST, asymmetric",2
+44532.95,"BEAST, asymmetric",3
+78648.81,"BEAST, asymmetric",4
+125838.5,"BEAST, asymmetric",5
+59311.88,"BEAST, asymmetric",6
+34384.9,"BEAST, asymmetric",7
+62586.34,"BEAST, asymmetric",8
+56420.54,"BEAST, asymmetric",9
+76993,"BEAST, asymmetric",10
+44889.59,"BEAST, asymmetric",11
+24667.78,"BEAST, asymmetric",12
+125060.1,"BEAST, asymmetric",13
+131621.8,"BEAST, asymmetric",14
+137618.9,"BEAST, asymmetric",15
+38653.94,"BEAST, asymmetric",16
+37768.45,"BEAST, asymmetric",17
+73701.51,"BEAST, asymmetric",18
+61183.01,"BEAST, asymmetric",19
+29465.18,"BEAST, asymmetric",20
+109708.9,"BEAST, asymmetric",21
+98436.48,"BEAST, asymmetric",22
+62466.68,"BEAST, asymmetric",23
+47828.01,"BEAST, asymmetric",24
+82885.65,"BEAST, asymmetric",25
+34042.55,"BEAST, asymmetric",26
+40789.41,"BEAST, asymmetric",27
+45210.12,"BEAST, asymmetric",28
+41926,"BEAST, asymmetric",29
+100013.5,"BEAST, asymmetric",30
+40530.7,"BEAST, asymmetric",31
+57421.85,"BEAST, asymmetric",32
+107171.9,"BEAST, asymmetric",33
+64687.01,"BEAST, asymmetric",34
+99934.33,"BEAST, asymmetric",35
+77272.18,"BEAST, asymmetric",36
+31770.82,"BEAST, asymmetric",37
+83893.72,"BEAST, asymmetric",38
+89987,"BEAST, asymmetric",39
+42474.72,"BEAST, asymmetric",40
+42474.72,"BEAST, asymmetric",41
+77456.02,"BEAST, asymmetric",42
+48818.46,"BEAST, asymmetric",43
+54562.64,"BEAST, asymmetric",44
+68709.06,"BEAST, asymmetric",45
+46761.63,"BEAST, asymmetric",46
+38707.56,"BEAST, asymmetric",47
+60214.18,"BEAST, asymmetric",48
+55042.56,"BEAST, asymmetric",49
+98362.88,"BEAST, asymmetric",50
+20998.53,"inf. tree, equal dist.",1
+41657,"sim. tree, equal dist.",1
+26773.92,"inf. tree, equal dist.",2
+34867.41,"sim. tree, equal dist.",2
+33302.09,"inf. tree, equal dist.",3
+36823.51,"sim. tree, equal dist.",3
+21728.66,"inf. tree, equal dist.",4
+27466.8,"sim. tree, equal dist.",4
+29761.92,"inf. tree, equal dist.",5
+35688.66,"sim. tree, equal dist.",5
+97935.06,"inf. tree, equal dist.",6
+42065.52,"sim. tree, equal dist.",6
+30805.88,"inf. tree, equal dist.",7
+29569.64,"sim. tree, equal dist.",7
+23226.75,"inf. tree, equal dist.",8
+34505.48,"sim. tree, equal dist.",8
+58025.62,"inf. tree, equal dist.",9
+29675.87,"sim. tree, equal dist.",9
+187952.4,"inf. tree, equal dist.",10
+34104.72,"sim. tree, equal dist.",10
+48518.27,"inf. tree, equal dist.",11
+31899.65,"sim. tree, equal dist.",11
+89880.16,"inf. tree, equal dist.",12
+48322.17,"sim. tree, equal dist.",12
+37863.06,"inf. tree, equal dist.",13
+41094.58,"sim. tree, equal dist.",13
+49417.15,"inf. tree, equal dist.",14
+34255.25,"sim. tree, equal dist.",14
+85683.2,"inf. tree, equal dist.",15
+22860.36,"sim. tree, equal dist.",15
+87261.75,"inf. tree, equal dist.",16
+102014.7,"sim. tree, equal dist.",16
+31015.94,"inf. tree, equal dist.",17
+32586.19,"sim. tree, equal dist.",17
+27506.78,"inf. tree, equal dist.",18
+24475.63,"sim. tree, equal dist.",18
+88340.34,"inf. tree, equal dist.",19
+33067.59,"sim. tree, equal dist.",19
+37938.35,"inf. tree, equal dist.",20
+26297.72,"sim. tree, equal dist.",20
+64000.11,"inf. tree, equal dist.",21
+49875.66,"sim. tree, equal dist.",21
+25641.07,"inf. tree, equal dist.",22
+35731.67,"sim. tree, equal dist.",22
+27116.55,"inf. tree, equal dist.",23
+27827.41,"sim. tree, equal dist.",23
+24437.13,"inf. tree, equal dist.",24
+39579.58,"sim. tree, equal dist.",24
+33659.11,"inf. tree, equal dist.",25
+34859.67,"sim. tree, equal dist.",25
+38225.42,"inf. tree, equal dist.",26
+84704.33,"sim. tree, equal dist.",26
+82358.43,"inf. tree, equal dist.",27
+12033.59,"sim. tree, equal dist.",27
+30760.92,"inf. tree, equal dist.",28
+18990.13,"sim. tree, equal dist.",28
+90637.62,"inf. tree, equal dist.",29
+40291.7,"sim. tree, equal dist.",29
+43413.35,"inf. tree, equal dist.",30
+47958.32,"sim. tree, equal dist.",30
+33615.11,"inf. tree, equal dist.",31
+36182.39,"sim. tree, equal dist.",31
+61588.85,"inf. tree, equal dist.",32
+30687.59,"sim. tree, equal dist.",32
+32918.45,"inf. tree, equal dist.",33
+54227.57,"sim. tree, equal dist.",33
+209907.1,"inf. tree, equal dist.",34
+37037.17,"sim. tree, equal dist.",34
+34148.92,"inf. tree, equal dist.",35
+32900.1,"sim. tree, equal dist.",35
+96306.38,"inf. tree, equal dist.",36
+30433.48,"sim. tree, equal dist.",36
+34666.68,"inf. tree, equal dist.",37
+31834.28,"sim. tree, equal dist.",37
+118120,"inf. tree, equal dist.",38
+33008.42,"sim. tree, equal dist.",38
+91727.68,"inf. tree, equal dist.",39
+31351.25,"sim. tree, equal dist.",39
+87175.48,"inf. tree, equal dist.",40
+52217.83,"sim. tree, equal dist.",40
+85236.24,"inf. tree, equal dist.",41
+36430.17,"sim. tree, equal dist.",41
+31787.49,"inf. tree, equal dist.",42
+59493.49,"sim. tree, equal dist.",42
+32199.36,"inf. tree, equal dist.",43
+34158.21,"sim. tree, equal dist.",43
+30046.6,"inf. tree, equal dist.",44
+35008.49,"sim. tree, equal dist.",44
+21419.75,"inf. tree, equal dist.",45
+23042.57,"sim. tree, equal dist.",45
+85611.26,"inf. tree, equal dist.",46
+62363.14,"sim. tree, equal dist.",46
+29848.46,"inf. tree, equal dist.",47
+30883.67,"sim. tree, equal dist.",47
+74590.34,"inf. tree, equal dist.",48
+44419.5,"sim. tree, equal dist.",48
+17117.59,"inf. tree, equal dist.",49
+28359.35,"sim. tree, equal dist.",49
+55313.88,"inf. tree, equal dist.",50
+32258.81,"sim. tree, equal dist.",50
+16211.51,"BEAST, GLM",1
+41903.51,"BEAST, GLM",2
+23795.71,"BEAST, GLM",3
+72564.12,"BEAST, GLM",4
+49584.47,"BEAST, GLM",5
+49806.12,"BEAST, GLM",6
+20689.61,"BEAST, GLM",7
+70670.39,"BEAST, GLM",8
+68867.27,"BEAST, GLM",9
+48736.89,"BEAST, GLM",10
+26745.01,"BEAST, GLM",11
+43311.27,"BEAST, GLM",12
+95230.47,"BEAST, GLM",13
+38200.63,"BEAST, GLM",14
+42296.57,"BEAST, GLM",15
+36534.95,"BEAST, GLM",16
+38671.51,"BEAST, GLM",17
+34821.52,"BEAST, GLM",18
+35676.26,"BEAST, GLM",19
+28937.82,"BEAST, GLM",20
+54489.65,"BEAST, GLM",21
+87096.55,"BEAST, GLM",22
+28918.42,"BEAST, GLM",23
+41368.7,"BEAST, GLM",24
+75286.35,"BEAST, GLM",25
+26844.53,"BEAST, GLM",26
+49260.17,"BEAST, GLM",27
+30961.48,"BEAST, GLM",28
+100087.3,"BEAST, GLM",29
+51885.13,"BEAST, GLM",30
+40250.88,"BEAST, GLM",31
+45764.21,"BEAST, GLM",32
+105664.7,"BEAST, GLM",33
+42669.87,"BEAST, GLM",34
+60026.23,"BEAST, GLM",35
+22704.89,"BEAST, GLM",36
+31031.53,"BEAST, GLM",37
+95045.84,"BEAST, GLM",38
+50365.68,"BEAST, GLM",39
+106339.7,"BEAST, GLM",40
+88832.67,"BEAST, GLM",41
+32434.55,"BEAST, GLM",42
+68865.42,"BEAST, GLM",43
+42921.83,"BEAST, GLM",44
+74371.94,"BEAST, GLM",45
+24607.01,"BEAST, GLM",46
+39052.84,"BEAST, GLM",47
+29870.9,"BEAST, GLM",48
+48077.41,"BEAST, GLM",49
+48280.2,"BEAST, GLM",50
