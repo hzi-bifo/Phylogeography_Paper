@@ -1,5 +1,5 @@
 # Phylogeographic reconstruction using air transportation data
-This repository contains all data and software for the manuscript "Phylogeographic reconstruction using air transportation data and its application to the 2009 H1N1 influenza A pandemic".
+This repository contains all data and software for the manuscript ["Phylogeographic reconstruction using air transportation data and its application to the 2009 H1N1 influenza A pandemic"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007101) published in PLOS Computational Biology.
 
 ## Data
 This folder contains data for all steps of the simulation and evaluation, including:
